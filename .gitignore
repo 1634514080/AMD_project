@@ -9,3 +9,6 @@
 **/__pycache__
 **/static/
 **/bert-roberta
+FastApi/models/Job.onnx
+FastApi/models/Roberta.onnx
+*.onnx
